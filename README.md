@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Linda! 😸
 
 <!--
 **lindgh/lindgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I was first exposed to programming during my junior year of high school and my love for it has only grown since I began taking classes as a computer science student at the University of California, Riverside. I have created projects utilizing both software and hardware, and I'm looking to find an internship to put the things I've learned (and will continue to learn) to the test. My goal is to take advantage of the opportunities I've been given to create something meaningful and impactful to those around me.
