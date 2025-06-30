@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I was first exposed to programming during my junior year of high school and my love for it has only grown since I began taking classes as a computer science student at the University of California, Riverside. I have created projects utilizing both software and hardware, and I'm looking to find an internship to put the things I've learned (and will continue to learn) to the test. My goal is to take advantage of the opportunities I've been given to create something meaningful and impactful to those around me.
+I'm a Computer Science graduate from the University of California, Riverside. I have experience in both embedded and full-stack software development. I'm actively looking for professional opportunities to apply and further develop my skills and knowledge.
