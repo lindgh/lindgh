@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a recent Computer Science graduate from the University of California, Riverside with experience in full-stack development and data engineering. I love working with algorithms and solving complex problems, and I'm always eager to learn new things!
+I love working with algorithms and solving complex problems, and I'm always eager to learn new things :)
